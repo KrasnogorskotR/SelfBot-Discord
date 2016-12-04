@@ -1,0 +1,2 @@
+# SelfBot-Discord
+Self Explanatory
